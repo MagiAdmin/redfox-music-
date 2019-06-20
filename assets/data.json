@@ -1,0 +1,92 @@
+[
+   
+    {
+        "jenre": "Tizita",
+        "list":[ 
+            {
+                "name": "Mohamud Ahmed",
+                "title": "Endegena",
+                "img": "assets/img/telahun.png",
+                "mp3": "Lily.mp3"
+            },
+            {
+                "name": "Aster Aweke",
+                "title": "Kabu",
+                "img": "assets/img/aster.png",
+                "mp3": "Ferrari.mp3"
+            },
+            {
+                "name": "Mohamud Ahmed",
+                "title": "Endegena",
+                "img": "assets/img/telahun.png",
+                "mp3": "Lily.mp3"
+            },
+            {
+                "name": "Aster Aweke",
+                "title": "Kabu",
+                "img": "assets/img/aster.png",
+                "mp3": "Ferrari.mp3"
+            }
+
+        ]
+        
+    },
+    {  
+        "jenre": "New Age",
+        "list":[ 
+            {
+                "name": "Rophnan",
+                "title": "Degime",
+                "img": "assets/img/rophnan.png",
+                "mp3": "Ferrari.mp3"
+            },
+            {
+                "name": "Rahel Getu",
+                "title": "Tilobgn",
+                "img": "assets/img/ke.png",
+                "mp3": "Lily.mp3"
+            },
+            {
+                "name": "Rophnan",
+                "title": "Degime",
+                "img": "assets/img/rophnan.png",
+                "mp3": "Ferrari.mp3"
+            },
+            {
+                "name": "Rahel Getu",
+                "title": "Tilobgn",
+                "img": "assets/img/ke.png",
+                "mp3": "Lily.mp3"
+            }
+        ]   
+    },
+    {  
+        "jenre": "Other",
+        "list":[ 
+            {
+                "name": "Rophnan",
+                "title": "Degime",
+                "img": "assets/img/rophnan.png",
+                "mp3": "Ferrari.mp3"
+            },
+            {
+                "name": "Mohamud Ahmed",
+                "title": "Endegena",
+                "img": "assets/img/telahun.png",
+                "mp3": "Lily.mp3"
+            },
+            {
+                "name": "Aster Aweke",
+                "title": "Kabu",
+                "img": "assets/img/aster.png",
+                "mp3": "Ferrari.mp3"
+            },
+            {
+                "name": "Rahel Getu",
+                "title": "Tilobgn",
+                "img": "assets/img/ke.png",
+                "mp3": "Lily.mp3"
+            }
+        ]   
+    }    
+]
